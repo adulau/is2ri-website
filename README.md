@@ -1,14 +1,7 @@
-# Arctic Fox
-An open source minimal theme for Jekyll, ideal for blogging.
+IS2RI website based on the Arctic Fox minimal theme for Jekyll.
 
-View the demo at http://diezcami.github.io/arctic-fox-theme
 
-## Contribute
-Please submit **open issues** for bugs or TBA features that haven't been documented yet! Feel free to submit pull requests for any existing issues.
-
-## License
-The MIT License (MIT)
-
+Copyright (c) 2015 IS2RI ASBL
 Copyright (c) 2015 Camille Diez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
